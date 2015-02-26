@@ -1,0 +1,28 @@
+#built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# Windows thumbnail db
+Thumbs.db
+
+# OSX files
+.DS_Store
+
+# Eclipse project files
+.classpath
+.project
+
+# Gradle
+build/
+.gradle
+
+# IntelliJ Idea (don't ignore run configurations)
+.idea/*
+!.idea/runConfigurations/
+*.iml
